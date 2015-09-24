@@ -5,8 +5,7 @@
   border: 0px;
   padding: 0px;
 	background-color: #999999
-
-}
+	}
 
 .nav{
 	float: left;
@@ -15,9 +14,8 @@
   border: 0px;
   padding: 0px;
 	background-color: #FFDAEC;
-
-
-}
+	}
+	
 @media (min-width: 768px) and (max-width: 991px) {
 	.column1 {
 		float: left;
